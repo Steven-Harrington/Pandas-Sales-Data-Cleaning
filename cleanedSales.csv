@@ -1,0 +1,11 @@
+OrderID,Region,Category,UnitPrice,Quantity,TotalRevenue
+101,East,Electronics,120.00,2,240.00
+102,West,Clothing,45.00,1,45.00
+103,East,Electronics,120.00,2,240.00
+104,Central,Uncategorized,300.00,1,300.00
+105,West,Electronics,134.38,4,537.50
+106,East,Clothing,50.00,3,150.00
+107,Central,Clothing,40.00,2,80.00
+108,West,Home,150.00,1,150.00
+109,East,Home,134.38,5,671.88
+110,Central,Electronics,250.00,2,500.00
